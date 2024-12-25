@@ -1,0 +1,16 @@
+ /* 
+    1. Think Greedy
+    2. Think Brute Force
+    3. Think solution in reverse order
+    4. Think DP [ check constraints carefully ]
+    5. Check base cases for DP and prove solution for Greedy
+    6. Think Graph 
+    7. ceil a/b=(a+b-1)/b do remember
+    8. Take care while converting double/float to integers!!! Add some small double number before conversion!!
+    throws precision errors!
+    Check submission - https://codeforces.com/gym/104619/submission/234142307
+    9. Remember to convert size() to int!! Causes creji errors!
+    10. XOR is invertible to itself.
+    11.If x = a mod b then a mod 2b = x or x+a
+    12. (a+b)modc = (a+b-c)modc
+    */ 
